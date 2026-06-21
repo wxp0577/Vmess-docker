@@ -20,7 +20,7 @@
             "server": "www.microsoft.com",
             "server_port": 443
           },
-         "private_key": "l39PzKk84G47oZ6w5J2k0T_6b00x2wW8Z8w4oT9uF1E"
+         "private_key": "l39PzKk84G47oZ6w5J2k0T_6b00x2wW8Z8w4oT9uF1E",
           "short_id": ["0123456789abcdef"]
         }
       }
