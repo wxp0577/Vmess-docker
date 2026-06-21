@@ -27,6 +27,9 @@
     }
   ],
   "outbounds": [
-    { "type": "direct", "tag": "direct" }
+    {
+      "type": "direct",
+      "tag": "direct"
+    }
   ]
 }
